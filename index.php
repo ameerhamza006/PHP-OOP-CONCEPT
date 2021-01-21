@@ -1,3 +1,14 @@
+<!--
+How To Create Classes
+How To Create function in class
+How To Create Class Object  
+How To Use Class Proparty with Object 
+How To Use Variable With Object 
+How To Use Function With Object 
+What is constructer and how to use 
+what is destructer and how to use 
+-->
+
 <?php
 
 
