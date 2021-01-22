@@ -1,4 +1,4 @@
-<!--Encapsulation
+<!--Encapsulation / Access Modifair
 Hamry pass 3 type k encapsulation hoty h:
 1- Public
 2- protected
