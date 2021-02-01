@@ -151,6 +151,7 @@ if(isset($_POST['ubtnp'])){
 	$get_id = $_GET['Edit'];
 	 $update_value = "title='".$_POST["title"]."',price='".$_POST["price"]."',bio='".$_POST["bio"]."'";
 	$this->update('product',$update_value,$get_id,'product.php');
+	
 }
 	}
 
