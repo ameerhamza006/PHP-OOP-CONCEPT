@@ -1,7 +1,7 @@
 <!--
 Static
 static class ka object ni banta.
-Static ham is liye use krty h k agr hamy ksi b variable ya function/Property k bina osy use krna h to.
+Static ham is liye use krty h k agr hamy ksi b variable ya function/Property k bina object osy use krna h to.
 Agr hamy is ka constructer call ni krwana ho to tb b ham static ka use krty h.
 -->
 
